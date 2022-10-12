@@ -9,12 +9,15 @@
 3. See what type of object that hash names
 
         git cat-file -t <hash>
-
 4. Examine the contents of that commit closely
 
         git cat-file -p <hash>
 
 5. Find the parent's hash in the commit log
+
+parent 92330794be84f6b7b19f302d74d60208961bb49b
+
+___________________________________________________
 
 6. Look at the contents of the tree
 
@@ -29,3 +32,5 @@
 9. Examine the contents of the parent and its tree
 
 10. Do the trees you looked at have any matching hashes listed?
+
+The trees listed dont have any matching hashes listed. 
