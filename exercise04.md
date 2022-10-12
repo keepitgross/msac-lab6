@@ -4,15 +4,29 @@
 
         git status
 
+_____________________________________________________
+
+On branch main
+
+Your branch is up to date with 'origin/main'.
+
+_____________________________________________________
+
 2. Using VS Code, the command line, or your favorite code editor, create a new file named `fruits.txt`.
 
 3. Check your git status, and paste the contents here
 
         git status
 
+_____________________________________________________
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+
 4. Add the new file to your index
 
-        git add fruits.txt
+    git add fruits.txt     
 
 5. Check git status again, and paste the contents below
 
