@@ -1,3 +1,7 @@
 apple
 banana
 tomato
+blueberry
+strawberry
+kiwi
+grape
