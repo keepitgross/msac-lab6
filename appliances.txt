@@ -1,1 +1,4 @@
-babaa
+dishwasher
+dryer
+refrigerator
+microwave
