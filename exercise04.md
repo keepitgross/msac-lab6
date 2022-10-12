@@ -32,3 +32,15 @@ Your branch is up to date with 'origin/main'.
 
         git status
 
+
+_____________________________________________________
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        my_r/
+
+
+
