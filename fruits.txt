@@ -5,3 +5,4 @@ blueberry
 strawberry
 kiwi
 grape
+honeydew
