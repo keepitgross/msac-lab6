@@ -5,4 +5,10 @@
         git status
 
 2. Paste the output below
+_________________________________________
 
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
