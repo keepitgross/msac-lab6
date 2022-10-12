@@ -4,13 +4,13 @@
 
         git status
 
-_____________________________________________________
+______________________________________________________
 
 On branch main
 
 Your branch is up to date with 'origin/main'.
 
-_____________________________________________________
+______________________________________________________
 
 2. Using VS Code, the command line, or your favorite code editor, create a new file named `fruits.txt`.
 
@@ -18,7 +18,7 @@ _____________________________________________________
 
         git status
 
-_____________________________________________________
+_______________________________________________________
 
 On branch main
 Your branch is up to date with 'origin/main'.
@@ -41,6 +41,9 @@ Your branch is up to date with 'origin/main'.
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
         my_r/
+
+
+
 
 
 
