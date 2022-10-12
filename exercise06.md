@@ -36,7 +36,13 @@
 
 10. Which of the steps could be omitted?
 
+- After the changes have been made and saved, I don't think there os a big need to check the status of the file. 
+________________________________________________
+
 11. Why might it be a bad idea to omit them?
+
+It might lead to future problems if we skip checking that status of the files we're working on. Making sure they're changing as we want them to is important. 
+________________________________________________
 
 12. Repeat the above steps to add a new file with the name `vegetables.txt`
 
