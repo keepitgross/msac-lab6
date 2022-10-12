@@ -19,11 +19,19 @@
 
 5. Pick a commit hash from the log
 
+dbc7fa3 status
+___________________________________________________
 6. View the commit log from the chosen commit backward
 
         git log --oneline <commit_hash>
 
+___________________________________________________
+
 7. How much of the commit hash do you need to specify? Hint, run `git help log`
 
+'dbc7fa3'
+_________________________________________________
 8. How can you show just the last three commit messages?
+
+git log --oneline <commit_hash> and choose the third to last hash. 
 
