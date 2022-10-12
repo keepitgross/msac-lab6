@@ -8,7 +8,7 @@
 
         blueberry
         strawberry
-        etc.
+        
 
 3. Edit `appliances.txt` and add a few items
 
@@ -20,7 +20,23 @@
 
         git status
 
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        my_r/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+_____________________________________________________________________________________________________________
+
 5. Can you commit both of the changed files in a single commit?
+
+git commit 
+
+_____________________________________________________________________________________________________________
 
 6. After you do so, check that you have a clean working directory by running `git status`, and pasting the output here
 
